@@ -11,3 +11,7 @@
 - ![Watch the Video](./weather-forecast/public/Assets/weather-dashboard.mp4)
 ![Screenshot](./weather-forecast/public/Assets/weather-dashboard-homepage.png)
 ![Screenshot](./weather-forecast/public/Assets/weather-dashboard-detailsPage.png)   
+
+# Akeshya Clone Project 
+- [VisitWorkingDemo](https://akeshya-project.vercel.app/)
+![ScreenShot](./akeshya-project/public/assets/AkeshyaClone.png)
